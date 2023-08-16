@@ -67,32 +67,39 @@ from selenium.webdriver.common.by import By
 def get_sub_domains_and_directories(url):
     links = set()
 
-    # First, try with BeautifulSoup
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    for a in soup.find_all('a', href=True):
-        href = a['href']
-        full_url = urljoin(url, href)
-        if full_url.startswith(url) and len(links) < 80:
-            links.add(full_url)
+    try:
+        # First, try with BeautifulSoup
+        response = requests.get(url)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        for a in soup.find_all('a', href=True):
+            href = a['href']
+            full_url = urljoin(url, href)
+            if full_url.startswith(url) and len(links) < 80:
+                links.add(full_url)
+    except requests.exceptions.RequestException as e:
+        print(f"An error occurred while processing {url} with BeautifulSoup: {e}")
 
     # If BeautifulSoup didn't find any links, try with Selenium
     if not links:
-        # Set up the WebDriver (change the path to where your ChromeDriver is located)
-        driver = webdriver.Chrome(executable_path='/path/to/chromedriver')
+        try:
+            # Set up the WebDriver (change the path to where your ChromeDriver is located)
+            driver = webdriver.Chrome(executable_path='chromedriver.exe')
 
-        # Get the URL
-        driver.get(url)
 
-        # Find all 'a' tags with an 'href' attribute
-        a_tags = driver.find_elements(By.TAG_NAME, 'a')
-        for a in a_tags:
-            href = a.get_attribute('href')
-            if href and href.startswith(url) and len(links) < 80:
-                links.add(href)
+            # Get the URL
+            driver.get(url)
 
-        # Close the WebDriver
-        driver.quit()
+            # Find all 'a' tags with an 'href' attribute
+            a_tags = driver.find_elements(By.TAG_NAME, 'a')
+            for a in a_tags:
+                href = a.get_attribute('href')
+                if href and href.startswith(url) and len(links) < 80:
+                    links.add(href)
+
+            # Close the WebDriver
+            driver.quit()
+        except Exception as e:  # Catching all exceptions related to Selenium
+            print(f"An error occurred while processing {url} with Selenium: {e}")
 
     return list(links)
 
