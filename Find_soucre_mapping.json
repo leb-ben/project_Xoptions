@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Source Map Consumer</title>
+    <script src="https://unpkg.com/source-map@0.7.3/dist/source-map.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.5/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.8/FileSaver.min.js"></script>
+</head>
+<body>
+    <form id="form">
+        <input type="url" required placeholder="source map" name="sourcemap">
+        <input type="submit">
+    </form>
+
+    <script>
+        sourceMap.SourceMapConsumer.initialize({
+            'lib/mappings.wasm': 'https://unpkg.com/source-map@0.7.3/lib/mappings.wasm'
+        });
+
+        document.getElementById('form').onsubmit = async evt => {
+            evt.preventDefault();
+            const cors = 'https://cors-anywhere.herokuapp.com/';
+            const sourceMapURL = evt.target.sourcemap.value;
+            document.body.innerText = 'downloading sourcemap...';
+
+            const rawSourceMap = await fetch(cors + sourceMapURL).then(r => r.json());
+
+            document.body.innerText = 'generating AST...';
+
+            sourceMap.SourceMapConsumer.with(rawSourceMap, null, async consumer => {
+                document.body.innerText = `generating content from ${consumer.sources.length} files`;
+
+                for (const source of consumer.sources) {
+                    let content = consumer.sourceContentFor(source);
+                    if (content === null) {
+                        const url = new URL(source, sourceMapURL);
+                        content = await fetch(url).then(res => res.text());
+                    }
+                    console.log(content);
+                    document.body.innerText += `\n\nFile: ${source}\nContent: ${content}`;
+                }
+            });
+        }
+    </script>
+</body>
+</html>

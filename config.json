@@ -1,0 +1,20 @@
+{
+    "private_keys_file": "keys.txt",
+    "infura_api_endpoints": {
+        "Ethereum": "https://mainnet.infura.io/v3/81e9fa94b36c42aea3670592b1eae46c",
+        "Polygon": "https://polygon-mainnet.infura.io/v3/81e9fa94b36c42aea3670592b1eae46c",
+        "Optimism": "https://optimism-mainnet.infura.io/v3/81e9fa94b36c42aea3670592b1eae46c",
+        "Arbitrum": "https://arbitrum-mainnet.infura.io/v3/81e9fa94b36c42aea3670592b1eae46c",
+        "Palm": "https://palm-mainnet.infura.io/v3/81e9fa94b36c42aea3670592b1eae46c",
+        "Avalanche": "https://avalanche-mainnet.infura.io/v3/81e9fa94b36c42aea3670592b1eae46c",
+        "NEAR": "https://near-mainnet.infura.io/v3/81e9fa94b36c42aea3670592b1eae46c",
+        "Aurora": "https://aurora-mainnet.infura.io/v3/81e9fa94b36c42aea3670592b1eae46c",
+        "StarkNet": "https://starknet-mainnet.infura.io/v3/81e9fa94b36c42aea3670592b1eae46c",
+        "Celo": "https://celo-mainnet.infura.io/v3/81e9fa94b36c42aea3670592b1eae46c"
+    },
+    "kraken_api_endpoint": "https://api.kraken.com/0/public/Ticker",
+    "asset_pairs": {
+        "Ethereum": "XETHZUSD",
+        "Polygon": "XMATUSD"
+    }
+}

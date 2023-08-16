@@ -1,0 +1,9073 @@
+0xf4e2b0fcbd0dc4b326d8a52b718a7bb43bdbd072
+0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+0xfba0b4520e688191aeb81b364365084b457dae74
+0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+0x37da28c050e3c0a1c0ac3be97913ec038783da4c
+0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+0x157bfbecd023fd6384dad2bded5dad7e27bf92e4
+0x3bc8287f1d872df4217283b7920d363f13cf39d8
+0xfae394561e33e242c551d15d4625309ea4c0b97f
+0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+0x2eb3ac7e095e938a10a597c27b81d6fc1b443d2a
+0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+0x2de802397dd548ffb783717d847a25e72834db3b
+0x6813eb9362372eef6200f3b1dbc3f819671cba69
+0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+
+
+
+~
+Address: 0x4bd1280852cadb002734647305afc1db7ddd6acb
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 99999.99999999999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 0.00000157500001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 573.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 65416
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: YottaLing
+Token Balance: 3250
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 65416
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.76
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 65416
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 4e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: LUNA (Wormhole)
+Token Balance: 2724.9206
+USD Balance: 0.22
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: HEALTH
+Token Balance: 9.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: CALLTOCOMBAT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 15685
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 15685
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 15685
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: bsc-mainnet
+Contract Name: BattleKnight
+Token Balance: 11254
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 301
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x34c612e8bc39285a32689f8cc057f9df4af8d5ee
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1900
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa1d34d9cae06704b122a8fd3719353a821c1cbb4
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1240
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7f7cc7fd830b454ca1580c569c32fcda0b6da1ca
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1500
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6bcddc6540237795c11465d12d2b33411d6249e9
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 588.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68df5649ab41c9cd0b19488686999f1734093019
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 900
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 65165
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 65165
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 65165
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 5e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: matic-mainnet
+Contract Name: AMtoken
+Token Balance: 99999999600000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: METAKINGS
+Token Balance: 40
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Tether USD
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Kross
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Aigle Mind Coin
+Token Balance: 20000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 286.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Mebox.io
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Digital Universal Token
+Token Balance: 60000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 40
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x22f9ece07c04fdc56638bb5fccfdf4d539f565a7
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd0fa17721d0d9a86db158d88f45a8d710ce02594
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1600
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 9875
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 9875
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 9875
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 587.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: matic-mainnet
+Contract Name: Mainstream For The Underground
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 23448
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 23448
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.28
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 23448
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: METAKINGS
+Token Balance: 40
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: Meta Conquer
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: BattleKnight
+Token Balance: 70455
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: Sportemon-Go X
+Token Balance: 31
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: Sportemon-Go
+Token Balance: 303273255.7407696
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: fantom-mainnet
+Contract Name: ProjectMars Token
+Token Balance: 12500.636983132
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: arbitrum-mainnet
+Contract Name: Arbitrum Mainnet Ether
+Token Balance: 0.0000096922
+USD Balance: 0.02
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: arbitrum-mainnet
+Contract Name: Phoenix AI
+Token Balance: 7812
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2de802397dd548ffb783717d847a25e72834db3b
+Chain Name: bsc-mainnet
+Contract Name: Kunci Coin
+Token Balance: 6
+USD Balance: 0.04
+Scam Token: false
+~
+~
+Address: 0x2de802397dd548ffb783717d847a25e72834db3b
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 4e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2de802397dd548ffb783717d847a25e72834db3b
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1260
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 0.000001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 0.00000241070002
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 56168
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 56168
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: fees.wtf
+Token Balance: 0.66369819520719
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 1.06
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 56168
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: Dacacoin
+Token Balance: 3000000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: MovlToken
+Token Balance: 37.8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: BuildUP
+Token Balance: 23.83214138
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 387.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x06d31bd867343e5a9d8a82b99618253b38f63b8c
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 286.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 32518
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 32518
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.16
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 32518
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: SQUIDSON
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: UvaCoin
+Token Balance: 30671.59801
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 688.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: Digital Universal Token
+Token Balance: 50000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: fantom-mainnet
+Contract Name: Fantom
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: fantom-mainnet
+Contract Name: LINKToken.io
+Token Balance: 227.85
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: fantom-mainnet
+Contract Name: $ vanityeth.org
+Token Balance: 888888
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: arbitrum-mainnet
+Contract Name: Arbitrum Mainnet Ether
+Token Balance: 0.000001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa1401f0c1e75cc40055d9e6a3f25adf11ea876ec
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 640
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe8d2e34d18d3547ba69ce6ba78171e877b093977
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1140
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1dc728786e09f862e39be1f39dd218ee37feb68d
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1dc728786e09f862e39be1f39dd218ee37feb68d
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 1980
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1dc728786e09f862e39be1f39dd218ee37feb68d
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 1980
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1dc728786e09f862e39be1f39dd218ee37feb68d
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 1980
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1dc728786e09f862e39be1f39dd218ee37feb68d
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd2784cc667b53811c08e314eb3a353d00dbd2ba8
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1040
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9e3289708dc5709926a542fcf260fd4b210461f0
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9e3289708dc5709926a542fcf260fd4b210461f0
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9e3289708dc5709926a542fcf260fd4b210461f0
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9e3289708dc5709926a542fcf260fd4b210461f0
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9e3289708dc5709926a542fcf260fd4b210461f0
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x22e256f96bf9430f3a7cc0bf7be00612688b7db5
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 880
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf084bbaabee1a700a8faa404027db620a5aa0059
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf084bbaabee1a700a8faa404027db620a5aa0059
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 0.00000281082309
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf084bbaabee1a700a8faa404027db620a5aa0059
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 160
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5ae58d2bc5145bff0c1bec0f32bfc2d079bc66ed
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 15684
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5ae58d2bc5145bff0c1bec0f32bfc2d079bc66ed
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 15684
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5ae58d2bc5145bff0c1bec0f32bfc2d079bc66ed
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5ae58d2bc5145bff0c1bec0f32bfc2d079bc66ed
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5ae58d2bc5145bff0c1bec0f32bfc2d079bc66ed
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 286.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4aff4d8fa086e079584c5532569135d1ac620a87
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 180
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6400d26aa046e378a263b9e507a89adfc1035eb2
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1180
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x0fc0e54f047efb3fd041837213ecb572ad594263
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 202
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x0fc0e54f047efb3fd041837213ecb572ad594263
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 280
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x84932b289535fbf79bd2eb6322c2810fa2f152bf
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1200
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x083522c909665aa7ac151892a3a847cbb382b5d4
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 600
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc20f6d75549baa6770e9ec23cbd092b29aed0a5
+Chain Name: eth-mainnet
+Contract Name: CanYaCoin
+Token Balance: 5
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x86df25873cb695d3fa3781f34a6b55e5f17dba74
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 460
+USD Balance: 0.00
+Scam Token: false
+~
+
+~
+Address: 0x9a3c8f4a9a839c53fd86e354dced75f9eff4d3f6
+Chain Name: bsc-mainnet
+Contract Name: peace
+Token Balance: 100000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2eb3ac7e095e938a10a597c27b81d6fc1b443d2a
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 0.00010334043749
+USD Balance: 0.19
+Scam Token: false
+~
+~
+Address: 0x2eb3ac7e095e938a10a597c27b81d6fc1b443d2a
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2eb3ac7e095e938a10a597c27b81d6fc1b443d2a
+Chain Name: bsc-mainnet
+Contract Name: peace
+Token Balance: 100000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2eb3ac7e095e938a10a597c27b81d6fc1b443d2a
+Chain Name: fantom-mainnet
+Contract Name: LINKToken.io
+Token Balance: 227.85
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2eb3ac7e095e938a10a597c27b81d6fc1b443d2a
+Chain Name: fantom-mainnet
+Contract Name: $ HEXPool.io
+Token Balance: 18272
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2eb3ac7e095e938a10a597c27b81d6fc1b443d2a
+Chain Name: fantom-mainnet
+Contract Name: $ vanityeth.org
+Token Balance: 888888
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2eb3ac7e095e938a10a597c27b81d6fc1b443d2a
+Chain Name: fantom-mainnet
+Contract Name: $ vanity-eth.io
+Token Balance: 88888888
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2eb3ac7e095e938a10a597c27b81d6fc1b443d2a
+Chain Name: fantom-mainnet
+Contract Name: $ RareTron.io
+Token Balance: 6666666
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: eth-mainnet
+Contract Name: Proton
+Token Balance: 1.6704
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: eth-mainnet
+Contract Name: Carrot Coin
+Token Balance: 2500
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: Yup
+Token Balance: 0.1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 3e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: RicheSwap.io
+Token Balance: 91968523936.43025
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: MyOwnItem (PoS)
+Token Balance: 2.425144274
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: BizAutoPolygon
+Token Balance: 17.40162479
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: LATTTA
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: Cookie
+Token Balance: 0.0000305964906
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: BIZAP.IO
+Token Balance: 2.049230262
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: Datam PCRM
+Token Balance: 5.381964468
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: GET $THRUST & CLAIM 10% BONUS TG: @THRUST_ZONE
+Token Balance: 20000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: klima-dao.io
+Token Balance: 1783.5
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: WHOZCOIN.COM
+Token Balance: 6.78150992
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: matic-mainnet
+Contract Name: BuildUP
+Token Balance: 39.40612896
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: AIT Token
+Token Balance: 49999.99999999999
+USD Balance: 89.66
+Scam Token: true
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Mobox
+Token Balance: 0.2457778
+USD Balance: 0.07
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Tokyo AU Token
+Token Balance: 3000000
+USD Balance: 0.01
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Baby Doge Coin
+Token Balance: 4531543.264176277
+USD Balance: 0.01
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Hippo Token
+Token Balance: 5000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: LUNA (Wormhole)
+Token Balance: 5
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: redFireAnts
+Token Balance: 100
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Chi Gastoken by 1inch
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: DOGESHIBA
+Token Balance: 20
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: SHIBA INU
+Token Balance: 12585
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: MetaUFO
+Token Balance: 5000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Tesla Optimus
+Token Balance: 10000000000000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Optimus Tesla
+Token Balance: 20999.999999999996
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: ShieldTokenCoin
+Token Balance: 3.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Covid-19 Vaccine Token
+Token Balance: 100000000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: MetaWar
+Token Balance: 10000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Puffs Cake
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: ABLC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: METACOIN
+Token Balance: 20000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Bull Token
+Token Balance: 600
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: METAMUSK
+Token Balance: 100002000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Tesla Optimus
+Token Balance: 5577
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: peace
+Token Balance: 100000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: HEXA
+Token Balance: 10376
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: BABY ZORO
+Token Balance: 1.177784000000437e+25
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: METAFLOKISHIBA
+Token Balance: 25000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Google Coin
+Token Balance: 500000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: ARABELLA
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: JOKERMJM
+Token Balance: 242.25
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: DMS1
+Token Balance: 0.1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: Quokka
+Token Balance: 100
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 20
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: COVER GAS FEE
+Token Balance: 5
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: PayNet Coin
+Token Balance: 4
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: coin from xDai
+Token Balance: 2.9
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: avalanche-mainnet
+Contract Name: 24DROP.NET
+Token Balance: 2000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: avalanche-mainnet
+Contract Name: StargateToken
+Token Balance: 0.01
+USD Balance: 0.01
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: fantom-mainnet
+Contract Name: Fantom
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: fantom-mainnet
+Contract Name: $ vanityeth.org
+Token Balance: 888888
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: fantom-mainnet
+Contract Name: LINKToken.io
+Token Balance: 219.15
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: fantom-mainnet
+Contract Name: $ RareTron.io
+Token Balance: 6666666
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: fantom-mainnet
+Contract Name: $ Bellas.cyou
+Token Balance: 5000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8ad2f6fcf346813646bd3bdc45576d264c2371e9
+Chain Name: rsk-mainnet
+Contract Name: Invecoin
+Token Balance: 0.01466897
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xaa5536f38cbfe35c08d3360d12eb63e4d8a50040
+Chain Name: bsc-mainnet
+Contract Name: Bee Token
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1ac6f9601f2f616badcea8a0a307e1a3c14767a4
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 50
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1ac6f9601f2f616badcea8a0a307e1a3c14767a4
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 50
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1ac6f9601f2f616badcea8a0a307e1a3c14767a4
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1ac6f9601f2f616badcea8a0a307e1a3c14767a4
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1ac6f9601f2f616badcea8a0a307e1a3c14767a4
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1ac6f9601f2f616badcea8a0a307e1a3c14767a4
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 140
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa1ba6fc3ea0e89f0e79f89d9aa0081d010571e4a
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 5184
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa1ba6fc3ea0e89f0e79f89d9aa0081d010571e4a
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 5184
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa1ba6fc3ea0e89f0e79f89d9aa0081d010571e4a
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 133
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 133
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.38
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 133
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 99999.99999999999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 874.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x811da72aca31e56f770fc33df0e45fd08720e157
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 18989
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 18989
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.38
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 18989
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 3e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 99999.99999999999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: bsc-mainnet
+Contract Name: BUSD Token
+Token Balance: 0.01
+USD Balance: 0.01
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: bsc-mainnet
+Contract Name: Sky Highs
+Token Balance: 13222
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 587.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfae394561e33e242c551d15d4625309ea4c0b97f
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3bc8287f1d872df4217283b7920d363f13cf39d8
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3bc8287f1d872df4217283b7920d363f13cf39d8
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 1265
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3bc8287f1d872df4217283b7920d363f13cf39d8
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 1265
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3bc8287f1d872df4217283b7920d363f13cf39d8
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.34
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3bc8287f1d872df4217283b7920d363f13cf39d8
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 1265
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3bc8287f1d872df4217283b7920d363f13cf39d8
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3bc8287f1d872df4217283b7920d363f13cf39d8
+Chain Name: bsc-mainnet
+Contract Name: Test Wrapped VENOM
+Token Balance: 15
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3bc8287f1d872df4217283b7920d363f13cf39d8
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 874.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5eb8d9ab73c9eea11344a1815e5a6fa43938c302
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1400
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6c23face014f20b3ebb65ae96d0d7ff32ab94c17
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6c23face014f20b3ebb65ae96d0d7ff32ab94c17
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6c23face014f20b3ebb65ae96d0d7ff32ab94c17
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6c23face014f20b3ebb65ae96d0d7ff32ab94c17
+Chain Name: matic-mainnet
+Contract Name: SomniLife
+Token Balance: 269.24551957200003
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6c23face014f20b3ebb65ae96d0d7ff32ab94c17
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6c23face014f20b3ebb65ae96d0d7ff32ab94c17
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 6e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8b7696dca505e006408f9b0e8bdffdd20993e15e
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 300
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x157bfbecd023fd6384dad2bded5dad7e27bf92e4
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x157bfbecd023fd6384dad2bded5dad7e27bf92e4
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 590
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x157bfbecd023fd6384dad2bded5dad7e27bf92e4
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 590
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x157bfbecd023fd6384dad2bded5dad7e27bf92e4
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.38
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x157bfbecd023fd6384dad2bded5dad7e27bf92e4
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 590
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x157bfbecd023fd6384dad2bded5dad7e27bf92e4
+Chain Name: matic-mainnet
+Contract Name: Flare Token
+Token Balance: 2141.2999999999997
+USD Balance: 0.47
+Scam Token: false
+~
+~
+Address: 0x157bfbecd023fd6384dad2bded5dad7e27bf92e4
+Chain Name: matic-mainnet
+Contract Name: KIWI Token
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x157bfbecd023fd6384dad2bded5dad7e27bf92e4
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x157bfbecd023fd6384dad2bded5dad7e27bf92e4
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 874.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x157bfbecd023fd6384dad2bded5dad7e27bf92e4
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 100
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 18494
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 18494
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.28
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 18494
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: matic-mainnet
+Contract Name: LitCoin
+Token Balance: 10000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: matic-mainnet
+Contract Name: TAO Coin
+Token Balance: 314.00005
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: matic-mainnet
+Contract Name: GO BUY POLYSAFU https://t.me/polySAFU_official
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: bsc-mainnet
+Contract Name: Tether USD
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: bsc-mainnet
+Contract Name: SANTA BLACK
+Token Balance: 80000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 1076.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 60
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: arbitrum-mainnet
+Contract Name: Arbitrum Mainnet Ether
+Token Balance: 5.469e-7
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd41c057fd1c78805aac12b0a94a405c0461a6fbb
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x79196b90d1e952c5a43d4847caa08d50b967c34a
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x79196b90d1e952c5a43d4847caa08d50b967c34a
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 99999.99999999999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x79196b90d1e952c5a43d4847caa08d50b967c34a
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 4e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x79196b90d1e952c5a43d4847caa08d50b967c34a
+Chain Name: bsc-mainnet
+Contract Name: Terk
+Token Balance: 10000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x79196b90d1e952c5a43d4847caa08d50b967c34a
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 587.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x705f565792765399f63cab7350afb960af9fac20
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 9e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x705f565792765399f63cab7350afb960af9fac20
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 2100
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b29bea668b044b2b355c370f85b729bcb43ec40
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b29bea668b044b2b355c370f85b729bcb43ec40
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 16654
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b29bea668b044b2b355c370f85b729bcb43ec40
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 16654
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b29bea668b044b2b355c370f85b729bcb43ec40
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b29bea668b044b2b355c370f85b729bcb43ec40
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 286.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 0.00001
+USD Balance: 0.02
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 16841
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 16841
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.38
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 16841
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 5e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 99999.99999999999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: bsc-mainnet
+Contract Name: COT
+Token Balance: 50
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 674.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x252dae0a4b9d9b80f504f6418acd2d364c0c59cd
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3df33457c5a221755aa3dd8b56bec51839495903
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1800
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1527b97640c3935df498110dccd4ce9181c7743
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 320
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc6a210606f2ee6e64afb9584db054f3476a5cc66
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 3e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc6a210606f2ee6e64afb9584db054f3476a5cc66
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc6a210606f2ee6e64afb9584db054f3476a5cc66
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 286.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd15a50df0d1d54b0931f462fda35a458aa301e42
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 240
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6ef0691fa9edd5a21e6be331d5c4aa21c18a520d
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 340
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa460667a1e875444354311ddd0c3f54536d50a15
+Chain Name: eth-mainnet
+Contract Name: CanYaCoin
+Token Balance: 4
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x824bbb005c67e6d04f74c3da371d62931b0b3913
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 276.5
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf050fe24f538bf83140a0af5a725b4f8d16f242e
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 380
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdba02a942650eb93cf2566dbcb7d945b9544afcd
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 532
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdba02a942650eb93cf2566dbcb7d945b9544afcd
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 260
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd2c71c0b28f045d0e6facc19a3a6a81a85a17ce4
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 480
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb9254dba9570667b53854d77275f5d630bb1634b
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 940
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xbfc889947a1279ff02f2709ab5c360a07e2d6a61
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xbfc889947a1279ff02f2709ab5c360a07e2d6a61
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x400c1427f34c6c7f85318fd10765128dffa191a9
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 800
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: eth-mainnet
+Contract Name: Wrapped Ether
+Token Balance: 0.0003
+USD Balance: 0.56
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: eth-mainnet
+Contract Name: Shiba Inu VS COVID
+Token Balance: 9.8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 32187
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 32187
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.34
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: eth-mainnet
+Contract Name: Tether
+Token Balance: 5
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: eth-mainnet
+Contract Name: null
+Token Balance: 4e+22
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 32187
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 3e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: matic-mainnet
+Contract Name: Dacacoin
+Token Balance: 2966886999.9999995
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: matic-mainnet
+Contract Name: SomniLife
+Token Balance: 7654.096595
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: matic-mainnet
+Contract Name: Zers.io
+Token Balance: 11287
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: Tether USD
+Token Balance: 0.01512253696685
+USD Balance: 0.02
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: RealfinanceNetwork
+Token Balance: 20
+USD Balance: 0.01
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: Wrapped UST Token
+Token Balance: 0.47715247863748
+USD Balance: 0.01
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: METAKINGS
+Token Balance: 20
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: HarryPotterObamaSonic10Inu
+Token Balance: 420.6942
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 9e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: COT
+Token Balance: 50
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: Binance Smart Chaine
+Token Balance: 5.23
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: MetaWar
+Token Balance: 10000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: Fluff Inu
+Token Balance: 230.5507315796318
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: ShibaMusk
+Token Balance: 5000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: SpacePi Token
+Token Balance: 500000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: Squid Game Marbles
+Token Balance: 18.15074035503604
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: aaxswap.com
+Token Balance: 17727728043.875687
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: Minereum BSC
+Token Balance: 0.001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: arbitrum-mainnet
+Contract Name: Arbitrum Mainnet Ether
+Token Balance: 0.00000633969907
+USD Balance: 0.01
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: evmos-mainnet
+Contract Name: Evmos
+Token Balance: 0.0001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: harmony-mainnet
+Contract Name: Harmony
+Token Balance: 0.000004
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: harmony-mainnet
+Contract Name: Royale
+Token Balance: 0.0095
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: fantom-mainnet
+Contract Name: LINKToken.io
+Token Balance: 227.85
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: fantom-mainnet
+Contract Name: $ HEXPool.io
+Token Balance: 103575
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: fantom-mainnet
+Contract Name: $ vanityeth.org
+Token Balance: 888888
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: fantom-mainnet
+Contract Name: $ RareTron.io
+Token Balance: 6666666
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: fantom-mainnet
+Contract Name: LINKToken.io
+Token Balance: 193.85
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4cceba2d7d2b4fdce4304d3e09a1fea9fbeb1528
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 14568
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 14568
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 14568
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 3e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 99999.99999999999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: fantom-mainnet
+Contract Name: LINKToken.io
+Token Balance: 227.85
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: fantom-mainnet
+Contract Name: $ vanityeth.org
+Token Balance: 888888
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: fantom-mainnet
+Contract Name: $ HEXPool.io
+Token Balance: 12085
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: fantom-mainnet
+Contract Name: $ RareTron.io
+Token Balance: 6666666
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x636cc65783084b9f370789c90f733dbbeb88925d
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5044a80bd3eff58302e638018534bbda8896c48a
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5044a80bd3eff58302e638018534bbda8896c48a
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5044a80bd3eff58302e638018534bbda8896c48a
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x23c03de5ba82a44e34a3a533312a7a511b1ed72e
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x23c03de5ba82a44e34a3a533312a7a511b1ed72e
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1020
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9a5279029e9a2d6e787c5a09cb068ab3d45e209d
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9a5279029e9a2d6e787c5a09cb068ab3d45e209d
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 987
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9a5279029e9a2d6e787c5a09cb068ab3d45e209d
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 987
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9a5279029e9a2d6e787c5a09cb068ab3d45e209d
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 987
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9a5279029e9a2d6e787c5a09cb068ab3d45e209d
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9a5279029e9a2d6e787c5a09cb068ab3d45e209d
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 874.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9358a525cc25aa571af0bcb5b98fbeab045a5e36
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9358a525cc25aa571af0bcb5b98fbeab045a5e36
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 16854
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9358a525cc25aa571af0bcb5b98fbeab045a5e36
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 16854
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9358a525cc25aa571af0bcb5b98fbeab045a5e36
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 16854
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9358a525cc25aa571af0bcb5b98fbeab045a5e36
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9358a525cc25aa571af0bcb5b98fbeab045a5e36
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9358a525cc25aa571af0bcb5b98fbeab045a5e36
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 301
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2dc9fb4b9ffa330b3c3371311a31e08e962241af
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 540
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x32e77de0d74a5c7af861aaed324c6a4c488142a8
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x32e77de0d74a5c7af861aaed324c6a4c488142a8
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 231
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x32e77de0d74a5c7af861aaed324c6a4c488142a8
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 231
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x32e77de0d74a5c7af861aaed324c6a4c488142a8
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 231
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x32e77de0d74a5c7af861aaed324c6a4c488142a8
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x32e77de0d74a5c7af861aaed324c6a4c488142a8
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 4100000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x32e77de0d74a5c7af861aaed324c6a4c488142a8
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x32e77de0d74a5c7af861aaed324c6a4c488142a8
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 286.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x32e77de0d74a5c7af861aaed324c6a4c488142a8
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x32e77de0d74a5c7af861aaed324c6a4c488142a8
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 16541
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 16541
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.18
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 16541
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 3e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 0.00000157500003
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: AnpanSwap Token
+Token Balance: 6.8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 503
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: Pancake LPs
+Token Balance: 0.02
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 80
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf1f6619b38a98d6de0800f1defc0a6399eb6d30c
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf472086186382fca55cd182de196520abd76f69d
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 4984
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf472086186382fca55cd182de196520abd76f69d
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 4984
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf472086186382fca55cd182de196520abd76f69d
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 587.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf472086186382fca55cd182de196520abd76f69d
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 120
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa96e58a5ca39ed6baf8bc7692e7d79df039fbcb8
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 500
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4a7a7c2e09209dbe44a582cd92b0edd7129e74be
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4a7a7c2e09209dbe44a582cd92b0edd7129e74be
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 56148
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4a7a7c2e09209dbe44a582cd92b0edd7129e74be
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 56148
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4a7a7c2e09209dbe44a582cd92b0edd7129e74be
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 56148
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4a7a7c2e09209dbe44a582cd92b0edd7129e74be
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4a7a7c2e09209dbe44a582cd92b0edd7129e74be
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4a7a7c2e09209dbe44a582cd92b0edd7129e74be
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 99999.99999999999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xee503e8db617fc7978a77156a5e56d6208414a2b
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 780
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x138854708d8b603c9b7d4d6e55b6d32d40557f4d
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x138854708d8b603c9b7d4d6e55b6d32d40557f4d
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 65488
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x138854708d8b603c9b7d4d6e55b6d32d40557f4d
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 65488
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x138854708d8b603c9b7d4d6e55b6d32d40557f4d
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 65488
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x138854708d8b603c9b7d4d6e55b6d32d40557f4d
+Chain Name: matic-mainnet
+Contract Name: ABCMETA Token
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x138854708d8b603c9b7d4d6e55b6d32d40557f4d
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 3e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x138854708d8b603c9b7d4d6e55b6d32d40557f4d
+Chain Name: matic-mainnet
+Contract Name: Mainstream For The Underground
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x138854708d8b603c9b7d4d6e55b6d32d40557f4d
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x138854708d8b603c9b7d4d6e55b6d32d40557f4d
+Chain Name: bsc-mainnet
+Contract Name: Tether USD
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x138854708d8b603c9b7d4d6e55b6d32d40557f4d
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 286.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: eth-mainnet
+Contract Name: Shiba Inu VS COVID
+Token Balance: 9.8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 32145
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 32145
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.32
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 32145
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1.3e-13
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: matic-mainnet
+Contract Name: STEM
+Token Balance: 50
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: bsc-mainnet
+Contract Name: SweetToken
+Token Balance: 10
+USD Balance: 0.07
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: bsc-mainnet
+Contract Name: Terk
+Token Balance: 10000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: fantom-mainnet
+Contract Name: PLAY888.io
+Token Balance: 95000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: fantom-mainnet
+Contract Name: mvgram.org
+Token Balance: 95000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: fantom-mainnet
+Contract Name: Tangle
+Token Balance: 0.981451703
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5a83529ff76ac5723a87008c4d9b436ad4ca7d28
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe0dd44773f7657b11019062879d65f3d9862460c
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe0dd44773f7657b11019062879d65f3d9862460c
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 3156
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe0dd44773f7657b11019062879d65f3d9862460c
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 3156
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe0dd44773f7657b11019062879d65f3d9862460c
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe0dd44773f7657b11019062879d65f3d9862460c
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe0dd44773f7657b11019062879d65f3d9862460c
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 864
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe0dd44773f7657b11019062879d65f3d9862460c
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe0dd44773f7657b11019062879d65f3d9862460c
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe0dd44773f7657b11019062879d65f3d9862460c
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe0dd44773f7657b11019062879d65f3d9862460c
+Chain Name: fantom-mainnet
+Contract Name: Fantom
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe0dd44773f7657b11019062879d65f3d9862460c
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf2adb90aa27a3c61a95c50063b20919d811e1476
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf2adb90aa27a3c61a95c50063b20919d811e1476
+Chain Name: eth-mainnet
+Contract Name: JUST www.powh.io
+Token Balance: 234
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf2adb90aa27a3c61a95c50063b20919d811e1476
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 13131
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf2adb90aa27a3c61a95c50063b20919d811e1476
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 13131
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf2adb90aa27a3c61a95c50063b20919d811e1476
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 13131
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf2adb90aa27a3c61a95c50063b20919d811e1476
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 3e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf2adb90aa27a3c61a95c50063b20919d811e1476
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf2adb90aa27a3c61a95c50063b20919d811e1476
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 874.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4ec431274ed8e1996f1451775b9e11e7db613955
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 420
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x37da28c050e3c0a1c0ac3be97913ec038783da4c
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x37da28c050e3c0a1c0ac3be97913ec038783da4c
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 1235
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x37da28c050e3c0a1c0ac3be97913ec038783da4c
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 1235
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x37da28c050e3c0a1c0ac3be97913ec038783da4c
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.38
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x37da28c050e3c0a1c0ac3be97913ec038783da4c
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 1235
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x37da28c050e3c0a1c0ac3be97913ec038783da4c
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x37da28c050e3c0a1c0ac3be97913ec038783da4c
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 99999.99999999999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x37da28c050e3c0a1c0ac3be97913ec038783da4c
+Chain Name: bsc-mainnet
+Contract Name: COT
+Token Balance: 50
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x37da28c050e3c0a1c0ac3be97913ec038783da4c
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 573.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xddada357563bc79f2ab5bb657a12e51ccec8891b
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 820
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x46f7df56a6fae374191ecafd69d7563893a85383
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 840
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xbd21f11c662cad4fa062e5741310083004086e52
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 620
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xbf4291710849e4ef33afdbcb20cfbe405766d442
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 760
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 3e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: eth-mainnet
+Contract Name: Shiba Inu VS COVID
+Token Balance: 9.8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 16848
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 16848
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.36
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 16848
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: bsc-mainnet
+Contract Name: METAKINGS
+Token Balance: 40
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: bsc-mainnet
+Contract Name: CUZZCoin
+Token Balance: 0.00042652738344
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: bsc-mainnet
+Contract Name: Terk
+Token Balance: 10000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: bsc-mainnet
+Contract Name: Bull Token
+Token Balance: 600
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: bsc-mainnet
+Contract Name: CBDVENDOR
+Token Balance: 50000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 4e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: matic-mainnet
+Contract Name: Petroleum
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xdbc23ae43a150ff8884b02cea117b22d1c3b9796
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd817d23c981472d703be36da777ffdb1abefd972
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd817d23c981472d703be36da777ffdb1abefd972
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 25644
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd817d23c981472d703be36da777ffdb1abefd972
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 25644
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd817d23c981472d703be36da777ffdb1abefd972
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 25644
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd817d23c981472d703be36da777ffdb1abefd972
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd817d23c981472d703be36da777ffdb1abefd972
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 874.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf65ac7003e905d72c666bfec1dc0960ecc9d0d6e
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf65ac7003e905d72c666bfec1dc0960ecc9d0d6e
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 16489
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf65ac7003e905d72c666bfec1dc0960ecc9d0d6e
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 16489
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf65ac7003e905d72c666bfec1dc0960ecc9d0d6e
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 16489
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf65ac7003e905d72c666bfec1dc0960ecc9d0d6e
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf65ac7003e905d72c666bfec1dc0960ecc9d0d6e
+Chain Name: bsc-mainnet
+Contract Name: Meta Conquer
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf65ac7003e905d72c666bfec1dc0960ecc9d0d6e
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 573.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe392229bd7664f4ce539303ce60a2235d915caca
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 520
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xeb3025e7ac2764040384316b33476e048961a71f
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xeb3025e7ac2764040384316b33476e048961a71f
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 12
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xeb3025e7ac2764040384316b33476e048961a71f
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 12
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xeb3025e7ac2764040384316b33476e048961a71f
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 12
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xeb3025e7ac2764040384316b33476e048961a71f
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8198dfda73f7882ac82916d1af549e7e5c85d6ed
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1100
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xaf1435509aa6ab5afa7f8939d2c006373ea0253d
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 573.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 0.00000241070002
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 18416
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 18416
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.24
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 18416
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: bsc-mainnet
+Contract Name: FEGtoken
+Token Balance: 81.409127955
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 4e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: fantom-mainnet
+Contract Name: Fantom
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3da8d322cb2435da26e9c9fee670f9fb7fe74e49
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc39677f5f47d5fe65ab24e66750e8fca127c15be
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc39677f5f47d5fe65ab24e66750e8fca127c15be
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 1341
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc39677f5f47d5fe65ab24e66750e8fca127c15be
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 1341
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc39677f5f47d5fe65ab24e66750e8fca127c15be
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 1341
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc39677f5f47d5fe65ab24e66750e8fca127c15be
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc39677f5f47d5fe65ab24e66750e8fca127c15be
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc39677f5f47d5fe65ab24e66750e8fca127c15be
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 99999.99999999999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc39677f5f47d5fe65ab24e66750e8fca127c15be
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc39677f5f47d5fe65ab24e66750e8fca127c15be
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc39677f5f47d5fe65ab24e66750e8fca127c15be
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6350872d7465864689def650443026f2f73a08da
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 4894
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6350872d7465864689def650443026f2f73a08da
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 4894
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6350872d7465864689def650443026f2f73a08da
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6350872d7465864689def650443026f2f73a08da
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6b09d6433a379752157fd1a9e537c5cae5fa3168
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6b09d6433a379752157fd1a9e537c5cae5fa3168
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 1234
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6b09d6433a379752157fd1a9e537c5cae5fa3168
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 1234
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6b09d6433a379752157fd1a9e537c5cae5fa3168
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 1234
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6b09d6433a379752157fd1a9e537c5cae5fa3168
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6b09d6433a379752157fd1a9e537c5cae5fa3168
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6b09d6433a379752157fd1a9e537c5cae5fa3168
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 99999.99999999999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6b09d6433a379752157fd1a9e537c5cae5fa3168
+Chain Name: bsc-mainnet
+Contract Name: AIT Token
+Token Balance: 99999.99999999999
+USD Balance: 179.30
+Scam Token: true
+~
+~
+Address: 0x6b09d6433a379752157fd1a9e537c5cae5fa3168
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 4e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 32165
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 32165
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 32165
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: AIT Token
+Token Balance: 99999.99999999999
+USD Balance: 179.30
+Scam Token: true
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 674.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: Digital Universal Token
+Token Balance: 50000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1eff47bc3a10a45d4b230b5d10e37751fe6aa718
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3224ebd2c99ca8afa709701d40868f16b38c70a2
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 360
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xc20aee271ee2ec8ede4520118a2ee08e555f6986
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1120
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa219d3d9350c9b3b3a083f767091bc8e841fe33c
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa219d3d9350c9b3b3a083f767091bc8e841fe33c
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1300
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x664c6515d7e860ceff9af422867838fd1787990c
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 700
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x504ec8f62a160702b3414a2b460789e9c36b7a2a
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 440
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7f7f156a6c3fd9d3f2024dbd37f483608435ad77
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 290.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf29213fa0c9bd6742fcf66f50bc190f2d2af88cd
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 680
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5f3358241c45ac7987f5ed24e4003843d4c369cb
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 580
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa1a625ae13b80a9c48b7c0331c83bc4541ac137f
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 573.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 18496
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 18496
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 18496
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: bsc-mainnet
+Contract Name: AIT Token
+Token Balance: 99999.99999999999
+USD Balance: 179.35
+Scam Token: true
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: bsc-mainnet
+Contract Name: Tether USD
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 4e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 286.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: bsc-mainnet
+Contract Name: Digital Universal Token
+Token Balance: 50000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: arbitrum-mainnet
+Contract Name: Arbitrum Mainnet Ether
+Token Balance: 0.0000098132
+USD Balance: 0.02
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: fantom-mainnet
+Contract Name: $ tLINK
+Token Balance: 118.35
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: fantom-mainnet
+Contract Name: $ RareTron.io
+Token Balance: 6666666
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe1ab8145f7e55dc933d51a18c793f901a3a0b276
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf9807a8719ae154e74591cb2d452797707fadf73
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 1321
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf9807a8719ae154e74591cb2d452797707fadf73
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 1321
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf9807a8719ae154e74591cb2d452797707fadf73
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf9807a8719ae154e74591cb2d452797707fadf73
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 864
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4940220d27657e56e42beb6cf1ba2de4c29e9633
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 860
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa5dfe354b3fc30c5c3a8ffefc8f9470d9177c334
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 18998
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa5dfe354b3fc30c5c3a8ffefc8f9470d9177c334
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 18998
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa5dfe354b3fc30c5c3a8ffefc8f9470d9177c334
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa5dfe354b3fc30c5c3a8ffefc8f9470d9177c334
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 573.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2f839f71fdd96313a826e22360a9c69e665ef446
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 720
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb83b6241f966b1685c8b2ffce3956e21f35b4dcb
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb83b6241f966b1685c8b2ffce3956e21f35b4dcb
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb83b6241f966b1685c8b2ffce3956e21f35b4dcb
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x673c638147fe91e4277646d86d5ae82f775eea5c
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 18944
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x673c638147fe91e4277646d86d5ae82f775eea5c
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 18944
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x673c638147fe91e4277646d86d5ae82f775eea5c
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x673c638147fe91e4277646d86d5ae82f775eea5c
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x673c638147fe91e4277646d86d5ae82f775eea5c
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 874.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb56ed8f48979e1a948ad129199a600d0562cac51
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb56ed8f48979e1a948ad129199a600d0562cac51
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 54887
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb56ed8f48979e1a948ad129199a600d0562cac51
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 54887
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb56ed8f48979e1a948ad129199a600d0562cac51
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 54887
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb56ed8f48979e1a948ad129199a600d0562cac51
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb56ed8f48979e1a948ad129199a600d0562cac51
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 573.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa56160a359f2eaa66f5c9df5245542b07339a9a6
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa56160a359f2eaa66f5c9df5245542b07339a9a6
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 2156
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa56160a359f2eaa66f5c9df5245542b07339a9a6
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 2156
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa56160a359f2eaa66f5c9df5245542b07339a9a6
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 2156
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa56160a359f2eaa66f5c9df5245542b07339a9a6
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa56160a359f2eaa66f5c9df5245542b07339a9a6
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa56160a359f2eaa66f5c9df5245542b07339a9a6
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x21631721ba4349809aa123ddfb7fc735fe18c3fa
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1080
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd8e8ea89d71de89214fa39ba13ba9fcddc0d9467
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd8e8ea89d71de89214fa39ba13ba9fcddc0d9467
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 11315
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd8e8ea89d71de89214fa39ba13ba9fcddc0d9467
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 11315
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd8e8ea89d71de89214fa39ba13ba9fcddc0d9467
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 11315
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd8e8ea89d71de89214fa39ba13ba9fcddc0d9467
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd8e8ea89d71de89214fa39ba13ba9fcddc0d9467
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 874.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4f7b5b88c572676dca9e9cd61e3c879038cc25d5
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 740
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xae3dffee97f92db0201d11cb8877c89738353bce
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xae3dffee97f92db0201d11cb8877c89738353bce
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xae3dffee97f92db0201d11cb8877c89738353bce
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 13212
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xae3dffee97f92db0201d11cb8877c89738353bce
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 13212
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xae3dffee97f92db0201d11cb8877c89738353bce
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 13212
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xae3dffee97f92db0201d11cb8877c89738353bce
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 3e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xae3dffee97f92db0201d11cb8877c89738353bce
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xae3dffee97f92db0201d11cb8877c89738353bce
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xae3dffee97f92db0201d11cb8877c89738353bce
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xae3dffee97f92db0201d11cb8877c89738353bce
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xae3dffee97f92db0201d11cb8877c89738353bce
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7b39b7455e1391c0295c76d020b23ff0adcb02e5
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1160
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x321aaf2c7c5ebb6042fdc4311364ef0c1eb97cf2
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 2000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd36cece2a88965e1ea7a998d9bb1d561f4e72e3d
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd36cece2a88965e1ea7a998d9bb1d561f4e72e3d
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 728.7
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 0.00000241070001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 2000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 65411
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 65411
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.34
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: eth-mainnet
+Contract Name: Fomo www.fomocoin.org
+Token Balance: 243
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 65411
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: PolyDoge
+Token Balance: 11110
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: Cookies Protocol
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: AMtoken
+Token Balance: 10000000000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: BitCereal
+Token Balance: 5
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: Cookies
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: YouMeme.com - Social Network
+Token Balance: 0.1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: GrandpaGreen
+Token Balance: 999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: Ecoban
+Token Balance: 0.016
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: MovlToken
+Token Balance: 37.8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: matic-mainnet
+Contract Name: Deepwaters Social Token (FXERC20)
+Token Balance: 50
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: fantom-mainnet
+Contract Name: HEXPool.io
+Token Balance: 16745.12
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: AIT Token
+Token Balance: 99999.99999999999
+USD Balance: 179.35
+Scam Token: true
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: SafeMars
+Token Balance: 487.92699
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 1.5e-13
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: BURN Token
+Token Balance: 22
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: Binance Smart Chaine
+Token Balance: 15
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: AD Token
+Token Balance: 10000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: Xenon Pay II
+Token Balance: 0.352882799
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 674.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: Pancake LPs
+Token Balance: 0.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: Digital Universal Token
+Token Balance: 60000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: Minereum BSC
+Token Balance: 0.0007
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: Quokka
+Token Balance: 100
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: arbitrum-mainnet
+Contract Name: Arbitrum Mainnet Ether
+Token Balance: 0.0000057692
+USD Balance: 0.01
+Scam Token: false
+~
+~
+Address: 0x2b5ad5c4795c026514f8317c7a215e218dccd6cf
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb3087f34edab33a8182ba29adea4d739d9831a94
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 4e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb3087f34edab33a8182ba29adea4d739d9831a94
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb3087f34edab33a8182ba29adea4d739d9831a94
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xb3087f34edab33a8182ba29adea4d739d9831a94
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 0.000001575
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x81ba6fe2b469a3daa611ef5c9c0a5085b5dbed4c
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 980
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfba0b4520e688191aeb81b364365084b457dae74
+Chain Name: bsc-mainnet
+Contract Name: BTCB Token
+Token Balance: 0.000005
+USD Balance: 0.15
+Scam Token: false
+~
+~
+Address: 0x2c559fed4b8a8e12e170740d4dabb4fc7d3f9b49
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 290.8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2c559fed4b8a8e12e170740d4dabb4fc7d3f9b49
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 220
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2fa80b71cc7e84e418fb520d583db3e922a6d6e6
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 960
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5abfc823a8b0691ebada0a41cd6fab2f15a0a628
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 400
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4eeaf03a8ebd4596fd3fbe1cceecb44bd9b3aba9
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 577.4
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfda5c442e76a95f96c09782f1a15d3b58e32404f
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 560
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa33c9d26e1e33b84247defca631c1d30ffc76f5d
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 18445
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa33c9d26e1e33b84247defca631c1d30ffc76f5d
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 18445
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa33c9d26e1e33b84247defca631c1d30ffc76f5d
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa33c9d26e1e33b84247defca631c1d30ffc76f5d
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 577.4
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: eth-mainnet
+Contract Name: WrappedMillix
+Token Balance: 2
+USD Balance: 0.58
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: eth-mainnet
+Contract Name: BNB
+Token Balance: 0.00203682581066
+USD Balance: 0.49
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 25684
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 25684
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: eth-mainnet
+Contract Name: Bahamas Sand Dollar
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: eth-mainnet
+Contract Name: null
+Token Balance: 248982199
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: eth-mainnet
+Contract Name: null
+Token Balance: 9.96875e+23
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 25684
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: eth-mainnet
+Contract Name: www.disqusbot.com
+Token Balance: 94
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: NFT Worlds
+Token Balance: 11
+USD Balance: 0.21
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: PolyDoge
+Token Balance: 1111
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: Moc2
+Token Balance: 0.14003571428571
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: BizAutoPolygon
+Token Balance: 18.70201625
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: Petroleum
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: LATTTA
+Token Balance: 200
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: Proof of liquidity token
+Token Balance: 4.39562189913201
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: KIWI Token
+Token Balance: 4
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: GrandpaGreen
+Token Balance: 999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: BIZAP.IO
+Token Balance: 1.953805213
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: Datam PCRM
+Token Balance: 6.742847982
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: DC Comics
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: STAR WARS
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: The Meta Girls
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: Decentralized Gamefi Token
+Token Balance: 9.13456406864182
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: token
+Token Balance: 0.02675454545455
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: AdEx Network
+Token Balance: 2.15161475929588
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: Zero Knowledge Token
+Token Balance: 4.42810711964966
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: CBomber Token
+Token Balance: 28.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: Zers.io
+Token Balance: 22574
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: NO WAR
+Token Balance: 1000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: WHOZCOIN.COM
+Token Balance: 7.38567823
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: matic-mainnet
+Contract Name: BuildUP
+Token Balance: 36.226429
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: avalanche-mainnet
+Contract Name: Avalanche Coin
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: fantom-mainnet
+Contract Name: Fantom
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: fantom-mainnet
+Contract Name: $ tLINK
+Token Balance: 118.35
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: fantom-mainnet
+Contract Name: ProjectMars Token
+Token Balance: 13502.587996922
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: AIT Token
+Token Balance: 99999.99999999999
+USD Balance: 179.36
+Scam Token: true
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Biswap
+Token Balance: 0.06875
+USD Balance: 0.01
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Ethereum Meta
+Token Balance: 89460860
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: IGUP Token
+Token Balance: 0.778232
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: SafeMoon
+Token Balance: 1e-9
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: SafuuDoge
+Token Balance: 115365.20450464413
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: ECOMI
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: HELP Token
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: TestA
+Token Balance: 100
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: APENFT
+Token Balance: 57504.597954
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: COKEMUSK
+Token Balance: 382826.3271086657
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Meta Conquer
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: APPLEB
+Token Balance: 950000.0003629
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: null
+Token Balance: 1e+26
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Terk
+Token Balance: 10000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: AD Token
+Token Balance: 10000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Xenon Pay II
+Token Balance: 1960000.000664126
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: MSD
+Token Balance: 720
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: CALLTOCOMBAT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: SpacePi Token
+Token Balance: 500000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Prospotech Token
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Ontology
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: UvaCoin
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: APPLE Token
+Token Balance: 0.021843
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: BiTCore Coin
+Token Balance: 18420.651
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Pancake LPs
+Token Balance: 0.02
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Digital Universal Token
+Token Balance: 50000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Microsoft Azure
+Token Balance: 599.4
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Cronus Token
+Token Balance: 6000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: Quokka
+Token Balance: 100
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 20
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: PayNet Coin
+Token Balance: 5
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: coin from xDai
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: arbitrum-mainnet
+Contract Name: Arbitrum Mainnet Ether
+Token Balance: 6.2e-8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7e5f4552091a69125d5dfcb7b8c2659029395bdf
+Chain Name: cronos-mainnet
+Contract Name: Cronos
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x366c20b40048556e5682e360997537c3715aca0e
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 8489
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x366c20b40048556e5682e360997537c3715aca0e
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 8489
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x366c20b40048556e5682e360997537c3715aca0e
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf3465a6400394decb6ee21a0f43b4e80ce0ab9c9
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 660
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3797126345fb5fb6a37629db55ec692173cfb458
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 23123
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3797126345fb5fb6a37629db55ec692173cfb458
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 23123
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3797126345fb5fb6a37629db55ec692173cfb458
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3797126345fb5fb6a37629db55ec692173cfb458
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 573.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x3d335e9e8f012270c19f7e2857d211ac76746be0
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 920
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8afa58c03bbbf3bb79eefe186d3a5f05cb55765b
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1220
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf4e2b0fcbd0dc4b326d8a52b718a7bb43bdbd072
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf4e2b0fcbd0dc4b326d8a52b718a7bb43bdbd072
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 546
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf4e2b0fcbd0dc4b326d8a52b718a7bb43bdbd072
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 546
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf4e2b0fcbd0dc4b326d8a52b718a7bb43bdbd072
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.38
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf4e2b0fcbd0dc4b326d8a52b718a7bb43bdbd072
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 546
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf4e2b0fcbd0dc4b326d8a52b718a7bb43bdbd072
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf4e2b0fcbd0dc4b326d8a52b718a7bb43bdbd072
+Chain Name: matic-mainnet
+Contract Name: RAGEMATIC (PoS)
+Token Balance: 24
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf4e2b0fcbd0dc4b326d8a52b718a7bb43bdbd072
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf4e2b0fcbd0dc4b326d8a52b718a7bb43bdbd072
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 587.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x32e04b012ac811c91d36a355a6d2859a0071a965
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xace63fe81e70d3dda26cde2b114f55334520d2f3
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1700
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4bd1280852cadb002734647305afc1db7ddd6acb
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4bd1280852cadb002734647305afc1db7ddd6acb
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4bd1280852cadb002734647305afc1db7ddd6acb
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 21888
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4bd1280852cadb002734647305afc1db7ddd6acb
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 21888
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4bd1280852cadb002734647305afc1db7ddd6acb
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.38
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4bd1280852cadb002734647305afc1db7ddd6acb
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 21888
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4bd1280852cadb002734647305afc1db7ddd6acb
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 573.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4bd1280852cadb002734647305afc1db7ddd6acb
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4bd1280852cadb002734647305afc1db7ddd6acb
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4bd1280852cadb002734647305afc1db7ddd6acb
+Chain Name: matic-mainnet
+Contract Name: Astro
+Token Balance: 99999.99999999999
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 0.00000157500001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 573.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc32402667182d11b29fab5c5e323e80483e7800
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 65416
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: YottaLing
+Token Balance: 3250
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 65416
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.76
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 65416
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 4e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: LUNA (Wormhole)
+Token Balance: 2724.9206
+USD Balance: 0.22
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: HEALTH
+Token Balance: 9.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: CALLTOCOMBAT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68e527780872cda0216ba0d8fbd58b67a5d5e351
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 15685
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 15685
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 15685
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: bsc-mainnet
+Contract Name: BattleKnight
+Token Balance: 11254
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7dc0a40d64d72bb4590652b8f5c687bf7f26400c
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 301
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x34c612e8bc39285a32689f8cc057f9df4af8d5ee
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1900
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa1d34d9cae06704b122a8fd3719353a821c1cbb4
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1240
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x7f7cc7fd830b454ca1580c569c32fcda0b6da1ca
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1500
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6bcddc6540237795c11465d12d2b33411d6249e9
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 588.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x68df5649ab41c9cd0b19488686999f1734093019
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 900
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 65165
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 65165
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.2
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 65165
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 5e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: matic-mainnet
+Contract Name: AMtoken
+Token Balance: 99999999600000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: METAKINGS
+Token Balance: 40
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Tether USD
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Kross
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Aigle Mind Coin
+Token Balance: 20000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 286.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Mebox.io
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: Digital Universal Token
+Token Balance: 60000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 40
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6813eb9362372eef6200f3b1dbc3f819671cba69
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x22f9ece07c04fdc56638bb5fccfdf4d539f565a7
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd0fa17721d0d9a86db158d88f45a8d710ce02594
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1600
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 9875
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 9875
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 9875
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 587.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: matic-mainnet
+Contract Name: Mainstream For The Underground
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x093d49d617a10f26915553255ec3fee532d2c12f
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 23448
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 23448
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.28
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 23448
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: METAKINGS
+Token Balance: 40
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: Meta Conquer
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: BattleKnight
+Token Balance: 70455
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: Sportemon-Go X
+Token Balance: 31
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: Sportemon-Go
+Token Balance: 303273255.7407696
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: fantom-mainnet
+Contract Name: ProjectMars Token
+Token Balance: 12500.636983132
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: arbitrum-mainnet
+Contract Name: Arbitrum Mainnet Ether
+Token Balance: 0.0000096922
+USD Balance: 0.02
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x8735015837bd10e05d9cf5ea43a2486bf4be156f
+Chain Name: arbitrum-mainnet
+Contract Name: Phoenix AI
+Token Balance: 7812
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2de802397dd548ffb783717d847a25e72834db3b
+Chain Name: bsc-mainnet
+Contract Name: Kunci Coin
+Token Balance: 6
+USD Balance: 0.04
+Scam Token: false
+~
+~
+Address: 0x2de802397dd548ffb783717d847a25e72834db3b
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 4e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x2de802397dd548ffb783717d847a25e72834db3b
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1260
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 0.000001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 0.00000241070002
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 56168
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 56168
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: fees.wtf
+Token Balance: 0.66369819520719
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 1.06
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 56168
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: Dacacoin
+Token Balance: 3000000000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: MovlToken
+Token Balance: 37.8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: matic-mainnet
+Contract Name: BuildUP
+Token Balance: 23.83214138
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 387.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf7edc8fa1ecc32967f827c9043fcae6ba73afa5c
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x06d31bd867343e5a9d8a82b99618253b38f63b8c
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 286.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: Ether
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: TrekCoin
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 32518
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 32518
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: Minereum
+Token Balance: 0.16
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 32518
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: matic-mainnet
+Contract Name: BORD APE NIKE TOKEN
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: SQUIDSON
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: XBank
+Token Balance: 1
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: FLOKI BSC
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: Token X
+Token Balance: 1000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: FAST PROFIT
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: UvaCoin
+Token Balance: 30671.59801
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 688.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: Digital Universal Token
+Token Balance: 50000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: XGP
+Token Balance: 0.00001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: META BNB
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: bsc-mainnet
+Contract Name: FUNNY ROCKET
+Token Balance: 10
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: avalanche-mainnet
+Contract Name: Minereum AVAX
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: fantom-mainnet
+Contract Name: Fantom
+Token Balance: 2e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: fantom-mainnet
+Contract Name: LINKToken.io
+Token Balance: 227.85
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: fantom-mainnet
+Contract Name: $ vanityeth.org
+Token Balance: 888888
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: fantom-mainnet
+Contract Name: Minereum FTM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: arbitrum-mainnet
+Contract Name: Arbitrum Mainnet Ether
+Token Balance: 0.000001
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe57bfe9f44b819898f47bf37e5af72a0783e1141
+Chain Name: arbitrum-mainnet
+Contract Name: Minereum ARBITRUM
+Token Balance: 300000
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xa1401f0c1e75cc40055d9e6a3f25adf11ea876ec
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 640
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xe8d2e34d18d3547ba69ce6ba78171e877b093977
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1140
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1dc728786e09f862e39be1f39dd218ee37feb68d
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.069
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1dc728786e09f862e39be1f39dd218ee37feb68d
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 1980
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1dc728786e09f862e39be1f39dd218ee37feb68d
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 1980
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1dc728786e09f862e39be1f39dd218ee37feb68d
+Chain Name: eth-mainnet
+Contract Name: Rocket Inu
+Token Balance: 1980
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x1dc728786e09f862e39be1f39dd218ee37feb68d
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xd2784cc667b53811c08e314eb3a353d00dbd2ba8
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1040
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9e3289708dc5709926a542fcf260fd4b210461f0
+Chain Name: eth-mainnet
+Contract Name: Futureswap Token
+Token Balance: 0.01
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9e3289708dc5709926a542fcf260fd4b210461f0
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9e3289708dc5709926a542fcf260fd4b210461f0
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 8
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9e3289708dc5709926a542fcf260fd4b210461f0
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x9e3289708dc5709926a542fcf260fd4b210461f0
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x22e256f96bf9430f3a7cc0bf7be00612688b7db5
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 880
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf084bbaabee1a700a8faa404027db620a5aa0059
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 26347543096.50395
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf084bbaabee1a700a8faa404027db620a5aa0059
+Chain Name: bsc-mainnet
+Contract Name: Binance Coin
+Token Balance: 0.00000281082309
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xf084bbaabee1a700a8faa404027db620a5aa0059
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 160
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5ae58d2bc5145bff0c1bec0f32bfc2d079bc66ed
+Chain Name: eth-mainnet
+Contract Name: Hyper Ledger
+Token Balance: 15684
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5ae58d2bc5145bff0c1bec0f32bfc2d079bc66ed
+Chain Name: eth-mainnet
+Contract Name: Yorkshire Inu
+Token Balance: 15684
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5ae58d2bc5145bff0c1bec0f32bfc2d079bc66ed
+Chain Name: matic-mainnet
+Contract Name: Matic Token
+Token Balance: 1e-14
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5ae58d2bc5145bff0c1bec0f32bfc2d079bc66ed
+Chain Name: matic-mainnet
+Contract Name: aaxexchange.org
+Token Balance: 52695086193.0079
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x5ae58d2bc5145bff0c1bec0f32bfc2d079bc66ed
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 286.6
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x4aff4d8fa086e079584c5532569135d1ac620a87
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 180
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x6400d26aa046e378a263b9e507a89adfc1035eb2
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1180
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x0fc0e54f047efb3fd041837213ecb572ad594263
+Chain Name: bsc-mainnet
+Contract Name: MARA TOKEN
+Token Balance: 202
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x0fc0e54f047efb3fd041837213ecb572ad594263
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 280
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x84932b289535fbf79bd2eb6322c2810fa2f152bf
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 1200
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x083522c909665aa7ac151892a3a847cbb382b5d4
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 600
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0xfc20f6d75549baa6770e9ec23cbd092b29aed0a5
+Chain Name: eth-mainnet
+Contract Name: CanYaCoin
+Token Balance: 5
+USD Balance: 0.00
+Scam Token: false
+~
+~
+Address: 0x86df25873cb695d3fa3781f34a6b55e5f17dba74
+Chain Name: bsc-mainnet
+Contract Name: LGBT Coin
+Token Balance: 460
+USD Balance: 0.00
+Scam Token: false
+~
+
+ 83%|██████████████████████████████████████████████████████████████████████████████████████████████████▊                    | 830/1000 [43:36<08:55,  3.15s/it]
+
+FireAnon@Anonz_PC MINGW64 ~/git_power/cnc/ncnc/evm_/Querier (main)
+$ urlscan_api_key=your_api_key_hereurlscan_api_key=your_api_key_here
+
+FireAnon@Anonz_PC MINGW64 ~/git_power/cnc/ncnc/evm_/Querier (main)
+$

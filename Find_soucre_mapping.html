@@ -1,0 +1,56 @@
+import re
+import requests
+from bs4 import BeautifulSoup
+
+def get_hex_strings(html):
+    return re.findall(r'[A-Fa-f0-9]{64}', html)
+
+def get_login_credentials(html):
+    # This is a very basic example and may not work on all websites
+    users = re.findall(r'u - (.+?)\n', html)
+    passwords = re.findall(r'p - (.+?)\n', html)
+    return list(zip(users, passwords))
+
+def get_key_variables(html):
+    return re.findall(r'\b\w*key\w*\b', html, re.IGNORECASE)
+
+def get_lines_with_word(html, word):
+    lines = html.split('\n')
+    return [line for line in lines if word in line]
+
+def get_sub_domains(url):
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    links = [a['href'] for a in soup.find_all('a', href=True) if url in a['href']]
+    return links[:50]
+
+def main():
+    verbosity = 1
+    urls = input("Please enter a URL or a list of URLs separated by commas: ").split(',')
+    option = int(input("Choose an option to crawl/scrape the given URL(s) for:\n"
+                       "[1]: any 64 char hex strings\n"
+                       "[2]: Any login credentials\n"
+                       "[3]: Any Variables (or hard coded) where the name included the word 'key' in some part of it\n"
+                       "[4]: Return entire line if this word appears [user input]\n"
+                       "[5]: a list of up to 50 sub domains / independent unique pages that begin with the given URL\n"))
+
+    for url in urls:
+        response = requests.get(url)
+        html = response.text
+
+        if option == 1:
+            print(get_hex_strings(html))
+        elif option == 2:
+            print(get_login_credentials(html))
+        elif option == 3:
+            print(get_key_variables(html))
+        elif option == 4:
+            word = input("Please enter the keyword or phrase to use: ")
+            print(get_lines_with_word(html, word))
+        elif option == 5:
+            print(get_sub_domains(url))
+        else:
+            print("Invalid option")
+
+if __name__ == "__main__":
+    main()
