@@ -4,14 +4,39 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urljoin
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from rich import print
+from rich.color import Color
+from rich.style import Style
+import colorful
 
-def normalize_url(url):
+def print_colored(text, gradient=None):
+    if gradient:
+        colors = ["red", "orange", "yellow", "green", "blue", "cyan", "violet"]
+        gradient_text = ""
+        for i, char in enumerate(text):
+            color = colors[i % len(colors)]
+            gradient_text += getattr(colorful, color)(char)
+        print(gradient_text)
+    else:
+        print(text)
+
+unique_values = set()
+
+def normalize_url(url, fallback_scheme='http'):
     parsed_url = urlparse(url)
-    scheme = parsed_url.scheme or 'http'
+    scheme = parsed_url.scheme or 'https'
     netloc = parsed_url.netloc or parsed_url.path
     if not netloc.startswith('www.'):
         netloc = 'www.' + netloc
-    return scheme + '://' + netloc
+    if not scheme:
+        scheme = 'https'
+    normalized_url = scheme + '://' + netloc
+
+    # You can add logic here to attempt to fetch the content using the normalized URL
+    # and then fall back to the fallback_scheme if needed.
+
+    return normalized_url
+
 
 def get_hex_strings(html):
     return '\n'.join(re.findall(r'[A-Fa-f0-9]{64}', html))
