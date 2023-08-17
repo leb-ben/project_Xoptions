@@ -22,15 +22,16 @@ def print_colored(text, gradient=None):
 
 unique_values = set()
 
-def normalize_url(url, fallback_scheme='http'):
+def normalize_url(url):
     parsed_url = urlparse(url)
     scheme = parsed_url.scheme or 'https'
     netloc = parsed_url.netloc or parsed_url.path
+    path = parsed_url.path
     if not netloc.startswith('www.'):
         netloc = 'www.' + netloc
     if not scheme:
         scheme = 'https'
-    normalized_url = scheme + '://' + netloc
+    return scheme + '://' + netloc + path
 
     # You can add logic here to attempt to fetch the content using the normalized URL
     # and then fall back to the fallback_scheme if needed.

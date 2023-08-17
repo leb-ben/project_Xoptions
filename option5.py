@@ -9,6 +9,7 @@ import requests
 KEYWORDS = ['privKey', 'seed', 'key', 'mnemonic', 'p2p', 'asset', 'address', 'wallet', 'access', 'crypto', 'eth', 'erc20']
 
 def process_option5(url):
+    print(f"Processing URL: {url}")
     console = Console()
     table_title = f"Scrapped URL List from input_url: {url}"
     table = Table(title=table_title)
@@ -25,6 +26,7 @@ def process_option5(url):
             full_url = urljoin(url, href)
             if full_url.startswith(url) and len(links) < 50:
                 if any(keyword.lower() in full_url.lower() for keyword in KEYWORDS):
+                    print(f"Keyword found: {keyword}")
                     links.add(full_url)
     except requests.exceptions.RequestException as e:
         print(f"An error occurred while processing {url} with BeautifulSoup: {e}")

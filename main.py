@@ -30,7 +30,7 @@ def main():
                           "[3]: Any Variables (or hard coded) where the name included the word 'key' in some part of it\n" \
                           "[4]: Return entire line if this word appears [user input]\n" \
                           "[5]: a list of up to 50 sub domains / directories / unique pages that begin with the given URL\n"
-            
+
             colors = ["red", "orange", "yellow", "green", "blue", "cyan", "violet"]
             gradient_prompt_text = ""
             lines = prompt_text.split("\n")
@@ -51,7 +51,7 @@ def main():
                     except requests.exceptions.RequestException as e:
                         print(f"An error occurred while processing {normalized_url}: {e}")
                         continue  # Skip to the next URL
-            
+
                     if option == 1:
                         hex_strings = get_hex_strings(html)
                         if hex_strings:
@@ -65,7 +65,7 @@ def main():
                     elif option == 4:
                         process_option4(html)
                     elif option == 5:
-                        process_option5(urls)
+                        process_option5(normalized_url)
                     else:
                         print("Invalid option")
 
